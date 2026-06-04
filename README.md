@@ -1,17 +1,16 @@
 # Python_Diwali_Sales_Analysis
 
 Diwali Sales Analysis using Pandas
-📌 Project Overview
-
+Project Overview
 This project performs Exploratory Data Analysis (EDA) on Diwali sales data using Python and Pandas. The goal is to understand customer behavior, sales trends, and product performance during the festive season.
 
-🎯 Objective
+🎯Objective
 Analyze Diwali sales data
 Identify top customers and products
 Understand purchasing patterns based on gender, age, and location
 Generate business insights to improve future sales
 
-📂 Dataset Information
+📂Dataset Information
 The dataset contains information such as:
 
 Customer details (Gender, Age, Marital Status)
@@ -19,7 +18,7 @@ Product details (Product ID, Category)
 Purchase information (Amount, Quantity)
 Location (State, City)
 
-🛠 Tools & Technologies Used
+🛠Tools & Technologies Used
 Python 🐍
 Pandas 📊
 NumPy 🔢
