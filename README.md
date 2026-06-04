@@ -62,7 +62,7 @@ Diwali-Sales-Analysis/
 ├── README.md
 └── images/
 💡 Learnings
-Data cleaning in real-world datasets
+Data cleaning n real-world datasets
 GroupBy and aggregation in Pandas
 Exploratory Data Analysis techniques
 Business insights from raw data
